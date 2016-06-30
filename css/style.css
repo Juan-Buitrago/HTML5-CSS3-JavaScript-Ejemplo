@@ -37,6 +37,10 @@ body{
 	color:#F7F7F7;
 	background-color: #A4A4A4;
 }
+.navbar .navbar-list .navbar-item.active-reverse{
+	color:#F7F7F7;
+	background-color: #F7F7F7;
+}
 .navbar .navbar-list .navbar-item a{
 	display: inline-block;
 	text-decoration: none;
